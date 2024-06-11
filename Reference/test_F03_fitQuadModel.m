@@ -1,4 +1,4 @@
-function tests = test_fitQuadModel()
+function tests = test_F03_fitQuadModel()
     % Test array constructed from local functions in this file
     tests = functiontests( localfunctions() );
 end
